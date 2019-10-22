@@ -15,7 +15,6 @@ export const Books = [
     name: 'The Long Earth', genre: 'Sci-Fi', id: '3', authorId: '3',
   },
 ];
-
 export const Contacts = [{
   id: '1', addressId: '1', groupId: '1', firstName: 'Theodore L', lastName: 'Telles', gender: 'male', dob: '7/27/1974', nick: '', note: '', status: true,
 },
